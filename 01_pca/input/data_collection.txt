@@ -1,0 +1,7 @@
+Useful Links:
+
+Get Coordinates:	https://geocode.localfocus.nl
+
+Get Distances:	https://stevemorse.org/nearest/distancebatch.html
+
+Draw Map:	https://www.mapcustomizer.com
